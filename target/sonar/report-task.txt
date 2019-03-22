@@ -1,7 +1,7 @@
 organization=azebbouj-github
-projectKey=azebbouj_aboubakr
+projectKey=azebbouj_dossierAdministratif_api
 serverUrl=https://sonarcloud.io
 serverVersion=7.7.0.22792
-dashboardUrl=https://sonarcloud.io/dashboard?id=azebbouj_aboubakr
-ceTaskId=AWml99ZxjpDOvS2RY0nF
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWml99ZxjpDOvS2RY0nF
+dashboardUrl=https://sonarcloud.io/dashboard?id=azebbouj_dossierAdministratif_api
+ceTaskId=AWmmnmoAjwiscBO3mNsA
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWmmnmoAjwiscBO3mNsA
