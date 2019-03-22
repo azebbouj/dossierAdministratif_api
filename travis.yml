@@ -1,9 +1,0 @@
-language: java
-addons:
-  sonarcloud:
-    organization: "azebbouj-github" # the key of the org you chose at step #3
-    token:
-      secure: 96156599a11f60f88b1179ecf494430e53adc38a # encrypted value of your token
-script:
-  # other script steps might be done before running the actual analysis
-  - sonar-scanner

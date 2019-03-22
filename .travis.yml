@@ -1,0 +1,9 @@
+language: java
+addons:
+  sonarcloud:
+    organization: "dossier-github" # the key of the org you chose at step #3
+    token:
+      secure: 9757e7bd7749a55545c7cb9f86eb5fd0c7f98db6 # encrypted value of your token
+script:
+  # other script steps might be done before running the actual analysis
+  - sonar-scanner
