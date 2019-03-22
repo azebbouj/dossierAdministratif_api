@@ -6,4 +6,4 @@ addons:
       secure: 2a05b2796cf67853b2256be363934808df45ca6f # encrypted value of your token
 script:
   # other script steps might be done before running the actual analysis
-  - sonar-scanner
+  
