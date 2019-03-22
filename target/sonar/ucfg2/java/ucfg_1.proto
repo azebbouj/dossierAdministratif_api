@@ -1,0 +1,51 @@
+
+Efr.norsys.sinaf.Dossier.dto.RessourceDto#toString()Ljava/lang/String;
+__unknown_file ("1*Ù
+1“
+ˆC:\Users\zebbo\Documents\workspace-spring-tool-suite-4-4.1.2.RELEASE\Dossier\src\main\java\fr\norsys\sinaf\Dossier\dto\RessourceDto.java	 (î
+ë
+“
+ˆC:\Users\zebbo\Documents\workspace-spring-tool-suite-4-4.1.2.RELEASE\Dossier\src\main\java\fr\norsys\sinaf\Dossier\dto\RessourceDto.java  (#
+%0java.lang.String"__id*5*3*
+(fr.norsys.sinaf.Dossier.dto.RessourceDto"
+nomí
+ê
+“
+ˆC:\Users\zebbo\Documents\workspace-spring-tool-suite-4-4.1.2.RELEASE\Dossier\src\main\java\fr\norsys\sinaf\Dossier\dto\RessourceDto.java	 (#
+%1java.lang.String"__concat*
+RessourceDto [nom=*
+
+%0java.lang.Stringä
+á
+“
+ˆC:\Users\zebbo\Documents\workspace-spring-tool-suite-4-4.1.2.RELEASE\Dossier\src\main\java\fr\norsys\sinaf\Dossier\dto\RessourceDto.java	 (1
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+	, prenom=ñ
+î
+“
+ˆC:\Users\zebbo\Documents\workspace-spring-tool-suite-4-4.1.2.RELEASE\Dossier\src\main\java\fr\norsys\sinaf\Dossier\dto\RessourceDto.java4 (:
+%3java.lang.String"__id*8*6*
+(fr.norsys.sinaf.Dossier.dto.RessourceDto"
+prenomï
+ì
+“
+ˆC:\Users\zebbo\Documents\workspace-spring-tool-suite-4-4.1.2.RELEASE\Dossier\src\main\java\fr\norsys\sinaf\Dossier\dto\RessourceDto.java	 (:
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.StringÜ
+Ù
+“
+ˆC:\Users\zebbo\Documents\workspace-spring-tool-suite-4-4.1.2.RELEASE\Dossier\src\main\java\fr\norsys\sinaf\Dossier\dto\RessourceDto.java	 (@
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+]"°
+“
+ˆC:\Users\zebbo\Documents\workspace-spring-tool-suite-4-4.1.2.RELEASE\Dossier\src\main\java\fr\norsys\sinaf\Dossier\dto\RessourceDto.java (A
+
+%5java.lang.StringB,*
+(fr.norsys.sinaf.Dossier.dto.RessourceDto

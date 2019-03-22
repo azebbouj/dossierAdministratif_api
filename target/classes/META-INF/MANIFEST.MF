@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: zebbouj
+Build-Jdk: 10.0.2
+Implementation-Title: Dossier
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: fr.norsys.sinaf
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Dossier
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,7 @@
+organization=azebbouj-github
+projectKey=azebbouj_aboubakr
+serverUrl=https://sonarcloud.io
+serverVersion=7.7.0.22792
+dashboardUrl=https://sonarcloud.io/dashboard?id=azebbouj_aboubakr
+ceTaskId=AWml99ZxjpDOvS2RY0nF
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWml99ZxjpDOvS2RY0nF
